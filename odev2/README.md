@@ -5,8 +5,34 @@
  ```
  val students=listof("Cansu","Zeynep,"Ozkan","Cemre")
  fun main(){
-     println(students.filter{it[0] == 'C'})
+     val eagerList=students.filter{it[0] == 'C'}
+     println(eagerList)
  }
  
 ```
 
+- Bu kod satırını çalıştırdığımızda [Cansu,Cemre] dizisini ekranda görürüz.
+
+
+ ```
+ val students=listof("Cansu","Zeynep,"Ozkan","Cemre")
+ fun main(){
+     val lazyList=students.asSequence().filter{it[0] == 'C'}
+     println(lazyList)
+ }
+ 
+```
+
+- Bu kod satırını çalıştırdığımızda ekranda diziyi göremeyiz.
+
+
+```
+ val students=listof("Cansu","Zeynep,"Ozkan","Cemre")
+ fun main(){
+     val lazyList=students.asSequence().filter{it[0] == 'C'}
+     println(lazyList.toList())
+ }
+ 
+```
+
+- Bu kod satırını çalıştırdığımızda [Cansu,Cemre] dizisini ekranda görürüz.
