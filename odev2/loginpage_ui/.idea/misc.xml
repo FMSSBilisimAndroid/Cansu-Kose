@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable/ic_blue_background.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable/ic_green_background.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable/ic_image1.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/drawable/ic_pink_background.xml" value="0.1915" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/layout/activity_get_started.xml" value="0.2" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/layout/activity_login.xml" value="0.23859649122807017" />
         <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/cansu/AndroidStudioProjects/patika-fmss-bootcampt/odev2/loginpage_ui/app/src/main/res/layout/activity_sign_up.xml" value="0.16" />
       </map>
     </option>
   </component>
