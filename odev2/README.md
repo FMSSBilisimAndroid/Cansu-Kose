@@ -23,7 +23,7 @@
  
 ```
 
-- Bu kod satırını çalıştırdığımızda ise ekranda diziyi göremeyiz.
+- Bu kod satırını çalıştırdığımızda ekranda diziyi göremeyiz.
 
 
 ```
@@ -35,4 +35,4 @@
  
 ```
 
-- Bu kod satırını çalıştırdığımızda [Cansu,Cemre] dizisini ekranda görürüz.
+- Bu kod satırını çalıştırdığımızda ise [Cansu,Cemre] dizisini ekranda görürüz.
