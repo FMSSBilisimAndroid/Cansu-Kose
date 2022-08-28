@@ -1,1 +1,9 @@
+#Eager
+
+-
+
+
+#Lazy Filters
+
+-
 
